@@ -1,8 +1,8 @@
 const CACHE_NAME = 'SW-001';
 const toCache = [
     '/',
-    'js/js/web.webmanifest',
-    'js/js/register.js',
+    'js/web.webmanifest',
+    'js/register.js',
     'img/priority.png',
 ];
 
